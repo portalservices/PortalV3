@@ -11,7 +11,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #2493ff;
+  background-color: #000000;
   color: #ffffff;
   transition: 1.5s;
   border-radius: 6px;
